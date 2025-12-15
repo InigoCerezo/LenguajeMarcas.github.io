@@ -1,0 +1,24 @@
+head, body{
+    font-family: 'TF2 Secondary', 'Times New Roman', sans-serif;
+}
+
+h1, h2{
+    color: rgb(255, 187, 0);
+}
+
+p{
+    color: #000000;
+}
+
+.blue{
+    color: blue
+}
+
+.lol{
+    color: red;
+}
+
+.lmao{
+    font-size: 80px;
+    font-style: oblique;
+}
